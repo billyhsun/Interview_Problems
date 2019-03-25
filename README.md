@@ -6,7 +6,7 @@ Generating a report card based on several input csv files (students, courses, te
 "report_card_trie.py": Using a prefix tree (trie); 
 "report_card_dataframe.py": Using Pandas dataframes
 
-### Student Information Displayer:
+### Student Information Display:
 A web page made in React and JavaScript. Please see https://github.com/billyhsun/React-Demo-App
 
 ### Hotel Booking:
